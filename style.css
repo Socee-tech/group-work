@@ -382,6 +382,7 @@
     background-color: var(--background-light);
     position: relative;
     overflow: hidden;
+    animation: fadeIn 1.5s ease;
   }
   
   .about-section::before {
@@ -571,6 +572,7 @@
     background-color: var(--background-light);
     text-align: center;
     position: relative;
+    animation: fadeIn 1.5s ease;
   }
   
   .wildlife-section::before {
@@ -732,6 +734,7 @@
     background-color: var(--background-light);
     text-align: center;
     position: relative;
+    animation: fadeIn 1.5s ease;
   }
   
   .activities-section::before {
@@ -854,6 +857,7 @@
     background-color: var(--background-light);
     text-align: center;
     position: relative;
+    animation: fadeIn 1.5s ease;
   }
   
   .accommodation-section::before {
@@ -1004,6 +1008,7 @@
     background-color: var(--background-light);
     text-align: center;
     position: relative;
+    animation: fadeIn 1.5s ease;
   }
   
   .restaurant-section::before {
@@ -1188,6 +1193,7 @@
     background-color: var(--background-light);
     text-align: center;
     position: relative;
+    animation: fadeIn 1.5s ease;
   }
   
   .gallery-section::before {
@@ -1369,6 +1375,7 @@
     background-color: var(--background-light);
     text-align: center;
     position: relative;
+    animation: fadeIn 1.5s ease;
   }
   
   .plan-section::before {
@@ -1558,6 +1565,7 @@
     background-color: var(--background-light);
     text-align: center;
     position: relative;
+    animation: fadeIn 1.5s ease;
   }
   
   .booking-section::before {
@@ -1753,6 +1761,7 @@
     background-color: var(--background-light);
     text-align: center;
     position: relative;
+    animation: fadeIn 1.5s ease;
   }
   
   .contact-section::before {
